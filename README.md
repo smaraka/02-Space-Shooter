@@ -1,7 +1,13 @@
 # 02-Space-Shooter(Bullet Hell)
-Projeect for MSCH-C220, 25 Semptember 2021
+Project for MSCH-C220, 25 Semptember 2021
 
 My Project for 02 space arcade shooter. This is inspired by Touhou a japanese bullet hell game that I used to play back in school.
+
+## How to play:
+  * Survive by dodging the bullets
+  * Kill the boss. Takes about 100 shots
+  * Kill any random enemies that spawn to increase score
+  * Your bullets can destroy enemy bullets
 
 ## Implementation
 Built using Godot 3.3.3
