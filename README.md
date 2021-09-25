@@ -14,10 +14,11 @@ Explosion sprite sheets provided by [StumpyStrust](https://opengameart.org/conte
 
 ## References
 Exercises 2a-d
+
 Touhou Project Bullet Hell
 
 ## Future Development
-Implement more bullet patterns and powerups. Maybe 3 more bosses.
+Implement more bullet patterns and powerups
 
 ## Created by 
 Suraj Marakani
